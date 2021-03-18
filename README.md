@@ -1,8 +1,3 @@
-# picture
-![](https://github.com/Gronario/picture/blob/main/1.jpg)
-
-![](https://github.com/Gronario/picture/blob/main/1.jpg?raw=true)
-
 
     git init
     git clone https://github.com/Gronario/DevOps_online_Kyiv_2021Q2.git
